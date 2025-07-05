@@ -50,4 +50,5 @@ Visit the Sorting Visualizer and explore the fascinating world of sorting algori
 
 ---
 
-**Note:** This project is solely for educational purposes, aiming to provide a visual representation of various sorting algorithms. It was created with ❤️ by Saurabh Mishra. Feel free to contribute and enhance the Sorting Visualizer!
+**Note:** This project is solely for educational purposes, aiming to provide a visual representation of various sorting algorithms. It was created with ❤️ by Siddharth Singh Chauhan
+. Feel free to contribute and enhance the Sorting Visualizer!
