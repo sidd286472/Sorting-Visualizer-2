@@ -41,4 +41,4 @@ JavaScript: Implemented sorting algorithms and managed real-time visualizations.
 Try It Out
 Visit the Sorting Visualizer and explore the fascinating world of sorting algorithms. Understand their mechanisms and visualize the sorting process in action. Have fun experimenting with different algorithms and array sizes!
 
-Note: This project is solely for educational purposes, aiming to provide a visual representation of various sorting algorithms. It was created with ❤️ by Saurabh MishraSiddharth Singh Chauhan . Feel free to contribute and enhance the Sorting Visualizer!
+Note: This project is solely for educational purposes, aiming to provide a visual representation of various sorting algorithms. Feel free to contribute and enhance the Sorting Visualizer!
